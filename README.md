@@ -1,4 +1,4 @@
-# Dail Pad
+# Dial Pad
 
 A simple dialer app with flutter.
 
